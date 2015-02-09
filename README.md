@@ -9,4 +9,6 @@ Lead Architect - Guleid Ali
 
 Site Manager - Usman Khan
 
-GUI Designer - Nikayla Ricketts
+GUI Designer - Nikayla Ricketts 
+
+This is an edit
