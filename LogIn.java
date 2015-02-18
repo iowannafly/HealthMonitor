@@ -1,5 +1,5 @@
 
-rt java.awt.Toolkit;
+import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
 import java.sql.*;
 import javax.swing.*;
