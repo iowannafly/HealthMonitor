@@ -17,5 +17,7 @@ public class DBConnect {
 		 } catch (Exception err) {
 		System.out.println(err.getMessage());
 		}
+        }
+}
 	
 	/*Java file connection to the databse*/
