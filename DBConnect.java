@@ -16,7 +16,9 @@ public class DBConnect {
 		 return con;
 		 } catch (Exception err) {
 		System.out.println(err.getMessage());
+		return null;
 		}
+		
         }
 }
 	
