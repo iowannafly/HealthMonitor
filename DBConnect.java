@@ -18,7 +18,6 @@ public class DBConnect {
 		System.out.println(err.getMessage());
 		return null;
 		}
-		
         }
 }
 	
